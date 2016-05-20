@@ -1,6 +1,6 @@
 require 'csv'
 
-class Eratosthenes
+class Eratos
 =begin
 1. 探索リストに2からxまでの整数を昇順で入れる。
 2. 探索リストの先頭の数を素数リストに移動し、その倍数を探索リストから篩い落とす。
@@ -29,5 +29,5 @@ class Eratosthenes
 end
 
 if __FILE__ == $0
-  Eratosthenes.new(ARGV[0]).stdout
+  Eratos.new(ARGV[0]).stdout
 end
