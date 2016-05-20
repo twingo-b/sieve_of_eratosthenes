@@ -1,2 +1,2 @@
-# sieve_of_eratosthenes
-Sieve of Eratosthenes
+# Sieve of Eratosthenes
+[![Code Climate](https://codeclimate.com/github/twingo-b/sieve_of_eratosthenes/badges/gpa.svg)](https://codeclimate.com/github/twingo-b/sieve_of_eratosthenes) [![Test Coverage](https://codeclimate.com/github/twingo-b/sieve_of_eratosthenes/badges/coverage.svg)](https://codeclimate.com/github/twingo-b/sieve_of_eratosthenes/coverage) [![Build Status](https://travis-ci.org/twingo-b/sieve_of_eratosthenes.svg?branch=master)](https://travis-ci.org/twingo-b/sieve_of_eratosthenes)
