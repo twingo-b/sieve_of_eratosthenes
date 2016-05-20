@@ -1,0 +1,2 @@
+class Eratosthenes
+end
